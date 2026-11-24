@@ -1,0 +1,476 @@
+.marvel,
+.marvel * {
+  box-sizing: border-box;
+}
+.marvel {
+  background: #1c1e5c;
+  height: 1197.15px;
+  position: relative;
+}
+.stage {
+  width: 1200px;
+  height: 1197.15px;
+  position: absolute;
+  left: 352.4px;
+  top: 0px;
+}
+.top {
+  width: 1200px;
+  height: 195.15px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.toy-square-f-oldal {
+  background: #00a651;
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4.8px;
+  width: 557.74px;
+  height: 104.15px;
+  position: absolute;
+  left: 321.13px;
+  top: 91px;
+}
+.toy-square {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RussoOne-Regular", sans-serif;
+  font-size: 68.80000305175781px;
+  line-height: 82.56px;
+  letter-spacing: 4.13px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 34.8px;
+  top: 10px;
+}
+.tools {
+  width: 403.1px;
+  height: 48px;
+  position: absolute;
+  left: 778.9px;
+  top: 34px;
+}
+.sf {
+  background: #00a651;
+  border-radius: 999px;
+  width: 302px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.35);
+}
+.q {
+  width: 240px;
+  height: 48px;
+  position: absolute;
+  left: 15.7px;
+  top: 13px;
+  overflow: hidden;
+}
+.placeholder {
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  font-family: "RussoOne-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 12px;
+  top: 0px;
+}
+.keres-s {
+  width: 54px;
+  height: 48px;
+  position: absolute;
+  left: 248px;
+  top: 0px;
+}
+.svg {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 14px;
+  top: 11px;
+  overflow: visible;
+}
+.cb {
+  background: #ffffff;
+  border-radius: 999px;
+  width: 91.1px;
+  height: 30.4px;
+  position: absolute;
+  left: 312px;
+  top: 8.8px;
+}
+.kos-r-0 {
+  color: #00a651;
+  text-align: left;
+  font-family: "RussoOne-Regular", sans-serif;
+  font-size: 15.199999809265137px;
+  line-height: 121%;
+  font-weight: 400;
+  position: absolute;
+  left: 14px;
+  top: 6px;
+}
+.f-men {
+  background: #00a651;
+  border-radius: 18px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 1164px;
+  height: 54px;
+  position: absolute;
+  left: 18px;
+  top: 227.15px;
+}
+.link {
+  width: 107.93px;
+  height: 26px;
+  position: absolute;
+  left: 65.04px;
+  top: 14px;
+}
+.f-oldal {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RussoOne-Regular", sans-serif;
+  font-size: 16.799999237060547px;
+  line-height: 119%;
+  letter-spacing: 0.67px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: absolute;
+  left: 12px;
+  top: 3px;
+}
+.link2 {
+  width: 98.95px;
+  height: 26px;
+  position: absolute;
+  left: 275.05px;
+  top: 14px;
+}
+.r-lunk {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RussoOne-Regular", sans-serif;
+  font-size: 16.799999237060547px;
+  line-height: 119%;
+  letter-spacing: 0.67px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 12px;
+  top: 3px;
+}
+.link3 {
+  width: 145.57px;
+  height: 26px;
+  position: absolute;
+  left: 476.09px;
+  top: 14px;
+}
+.jdons-gok {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RussoOne-Regular", sans-serif;
+  font-size: 16.799999237060547px;
+  line-height: 119%;
+  letter-spacing: 0.67px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 12px;
+  top: 3px;
+}
+.link4 {
+  width: 142.4px;
+  height: 26px;
+  position: absolute;
+  left: 723.76px;
+  top: 14px;
+}
+.term-keink {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RussoOne-Regular", sans-serif;
+  font-size: 16.799999237060547px;
+  line-height: 119%;
+  letter-spacing: 0.67px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 12px;
+  top: 3px;
+}
+.link5 {
+  width: 130.7px;
+  height: 26px;
+  position: absolute;
+  left: 968.25px;
+  top: 14px;
+}
+.kapcsolat {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RussoOne-Regular", sans-serif;
+  font-size: 16.799999237060547px;
+  line-height: 119%;
+  letter-spacing: 0.67px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 12px;
+  top: 3px;
+}
+.toy-square2 {
+  position: absolute;
+  inset: 0;
+}
+.frame-9 {
+  width: 372px;
+  height: 262px;
+  position: absolute;
+  left: 417.6px;
+  top: 471px;
+}
+.rectangle-5 {
+  background: #00a651;
+  border-radius: 19px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 8px;
+  width: 372px;
+  height: 262px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.marvel-legend-s-marvel-rivals-hold-lovagh {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -24px;
+  top: 26px;
+  width: 221px;
+  height: 100px;
+}
+.r-16-500-ft {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -24px;
+  bottom: 36px;
+  width: 221px;
+  height: 100px;
+}
+.frame-10 {
+  width: 372px;
+  height: 262px;
+  position: absolute;
+  right: -12.6px;
+  top: 471px;
+}
+.marvel-legend-s-megtorl {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -30px;
+  top: 49px;
+  width: 221px;
+  height: 100px;
+}
+.r-13-500-ft {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 42px;
+  top: 131px;
+  width: 77px;
+  height: 57px;
+}
+.image-3 {
+  width: 212px;
+  height: 212px;
+  position: absolute;
+  left: 17px;
+  top: 23px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-11 {
+  width: 372px;
+  height: 262px;
+  position: absolute;
+  left: -5.4px;
+  top: 808px;
+}
+.marvel-legend-s-mcu-f-4-the-thing {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -40px;
+  top: 31px;
+  width: 221px;
+  height: 100px;
+}
+.r-11-500-ft {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -40px;
+  bottom: 49px;
+  width: 221px;
+  height: 100px;
+}
+.image-4 {
+  width: 211px;
+  height: 211px;
+  position: absolute;
+  left: 22px;
+  top: 23px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-12 {
+  width: 372px;
+  height: 262px;
+  position: absolute;
+  left: 417.6px;
+  top: 808px;
+}
+.image-5 {
+  width: 211px;
+  height: 211px;
+  position: absolute;
+  left: 26px;
+  top: 25px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-13 {
+  width: 372px;
+  height: 262px;
+  position: absolute;
+  right: -12.6px;
+  top: 808px;
+}
+.marvel-legend-s-magik-r-12-500-ft {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -35px;
+  top: 31px;
+  width: 221px;
+  height: 100px;
+}
+.image-2 {
+  width: 176px;
+  height: 212px;
+  position: absolute;
+  left: 446.6px;
+  top: 494px;
+  object-fit: cover;
+  aspect-ratio: 176/212;
+}
+.image-6 {
+  width: 211px;
+  height: 211px;
+  position: absolute;
+  right: 130.4px;
+  bottom: 153.15px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-15 {
+  width: 372px;
+  height: 262px;
+  position: absolute;
+  left: -14.4px;
+  bottom: 464.15px;
+}
+.spider-man {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: -35px;
+  top: 31px;
+  width: 221px;
+  height: 100px;
+}
+.marvel-legend-s-ps-spider-man-game-p-kember-r-11-500-ft {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 608.6px;
+  top: 833px;
+  width: 221px;
+  height: 211px;
+}
+.rectangle-6 {
+  background: #00a651;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 6px;
+  width: 220px;
+  height: 104px;
+  position: absolute;
+  left: 492.6px;
+  top: 325px;
+}
+.marvel2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BigShouldersDisplay-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 107.4px);
+  top: 339px;
+  width: 221px;
+  height: 100px;
+}
+.image-9 {
+  width: 204px;
+  height: 213px;
+  position: absolute;
+  left: 14.6px;
+  bottom: 489.15px;
+  object-fit: cover;
+  aspect-ratio: 204/213;
+}
